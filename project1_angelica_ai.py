@@ -9,7 +9,7 @@ Puzzle Problem Description:
 Revision History:
 v1.0   1. Started from 8 puzzle code v1.0 (file name is project1_ai.py)
                1.5. All of my iterations for the 8-puzzle are included 
-                    in the header of the project1_ai.py file. 
+                    in the header of the project1_8puzzle_ai.py file. 
        2. Removed support of interactive inputs, leave only support 
           of reading puzzle input from .json file (interactive inputs are
           still on the 8-puzzle solver)
