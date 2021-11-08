@@ -1,0 +1,112 @@
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['E', 'L', 'I']
+['C', 'A', ' ']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.0s
+Total state visited was 1
+Max queue size was 1
+puzzle solved -- match with goal state
+The depth of the goal node was 0
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['E', 'L', 'I']
+[' ', 'C', 'A']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.0156s
+Total state visited was 3
+Max queue size was 3
+puzzle solved -- match with goal state
+The depth of the goal node was 2
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['L', ' ', 'I']
+['E', 'C', 'A']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.0156s
+Total state visited was 5
+Max queue size was 6
+puzzle solved -- match with goal state
+The depth of the goal node was 4
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'G', 'I']
+['L', ' ', 'N']
+['E', 'C', 'A']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.0s
+Total state visited was 19
+Max queue size was 16
+puzzle solved -- match with goal state
+The depth of the goal node was 8
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'G', 'I']
+['L', ' ', 'C']
+['E', 'A', 'N']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.0573s
+Total state visited was 120
+Max queue size was 90
+puzzle solved -- match with goal state
+The depth of the goal node was 12
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'I', 'C']
+['L', ' ', 'G']
+['E', 'A', 'N']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 0.8752s
+Total state visited was 681
+Max queue size was 466
+puzzle solved -- match with goal state
+The depth of the goal node was 16
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', 'G', ' ']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 9.782s
+Total state visited was 3436
+Max queue size was 2450
+puzzle solved -- match with goal state
+The depth of the goal node was 20
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+[' ', 'C', 'N']
+['E', 'I', 'A']
+['G', 'L', 'A']
+algorithm used: Misplaced Tile Heuristic
+algorithm execution time: 144.599s
+Total state visited was 19001
+Max queue size was 13510
+puzzle solved -- match with goal state
+The depth of the goal node was 24
+=======Result End ===============
+

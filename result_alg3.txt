@@ -1,0 +1,112 @@
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['E', 'L', 'I']
+['C', 'A', ' ']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.0s
+Total state visited was 1
+Max queue size was 1
+puzzle solved -- match with goal state
+The depth of the goal node was 0
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['E', 'L', 'I']
+[' ', 'C', 'A']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.0s
+Total state visited was 3
+Max queue size was 3
+puzzle solved -- match with goal state
+The depth of the goal node was 2
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['L', ' ', 'I']
+['E', 'C', 'A']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.0s
+Total state visited was 6
+Max queue size was 6
+puzzle solved -- match with goal state
+The depth of the goal node was 4
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'G', 'I']
+['L', ' ', 'N']
+['E', 'C', 'A']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.0s
+Total state visited was 20
+Max queue size was 14
+puzzle solved -- match with goal state
+The depth of the goal node was 8
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'G', 'I']
+['L', ' ', 'C']
+['E', 'A', 'N']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.0937s
+Total state visited was 88
+Max queue size was 57
+puzzle solved -- match with goal state
+The depth of the goal node was 12
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'I', 'C']
+['L', ' ', 'G']
+['E', 'A', 'N']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.3749s
+Total state visited was 250
+Max queue size was 159
+puzzle solved -- match with goal state
+The depth of the goal node was 16
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', 'G', ' ']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.8314s
+Total state visited was 561
+Max queue size was 378
+puzzle solved -- match with goal state
+The depth of the goal node was 20
+=======Result End ===============
+
+
+======= Result Begin ===============
+Puzzle state:
+[' ', 'C', 'N']
+['E', 'I', 'A']
+['G', 'L', 'A']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 21.5092s
+Total state visited was 5854
+Max queue size was 3844
+puzzle solved -- match with goal state
+The depth of the goal node was 24
+=======Result End ===============
+

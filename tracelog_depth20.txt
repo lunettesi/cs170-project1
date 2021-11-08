@@ -1,0 +1,3097 @@
+python project1_angelica_ai.py angelica_depth20.json 3
+read-in from command line input, puzzle json file and algorithm to use
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', 'G', ' ']
+starting search with (3) Manhattan Distance Heuristic
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', ' ', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'L', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'L', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', ' ']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['E', 'A', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['E', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'A', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'L', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'L', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', ' ', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'I', 'L']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'L', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'L', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'L', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['E', 'A', 'N']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', ' ', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', 'A']
+['I', ' ', 'L']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['E', 'A', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', ' ', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', 'A']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'A']
+['E', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['A', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'I', 'L']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'L', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'L']
+['A', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', ' ', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'L', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', ' ', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', ' ', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['A', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'L', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'E', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'L', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'L', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'L', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'L', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'E', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'C', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['C', 'L', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'I', 'L']
+[' ', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'I', 'L']
+['E', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'I', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', ' ', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', ' ', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'L', 'G']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'L', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'A']
+['E', 'A', 'N']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['E', 'A', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'E', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'E', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'A']
+[' ', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'A', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'G', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'A', ' ']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+[' ', 'A', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'G', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'A']
+['E', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['A', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['A', 'L', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['E', 'G', 'N']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'I', 'L']
+[' ', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'I', 'L']
+['E', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', ' ', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'L']
+['A', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', ' ', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'A', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', ' ', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', ' ', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['I', 'A', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+[' ', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'L', ' ']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'N', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'A', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'A', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['E', ' ', 'N']
+['A', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'L', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', ' ']
+['C', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['I', 'C', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', ' ', 'E']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', ' ', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'L', 'G']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+[' ', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+[' ', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'L', 'G']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', ' ', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'N', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', ' ', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'A', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'A', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'L', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['E', 'N', ' ']
+['A', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['A', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'L', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'I', 'G']
+['E', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'A', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'A', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'A', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'L', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', 'G']
+[' ', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'I', 'G']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['A', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', ' ', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'L']
+['C', 'N', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'C', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'G', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', 'A', ' ']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', ' ']
+['C', 'N', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'G', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['E', 'C', 'G']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', 'A', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'G']
+['C', 'N', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'G']
+['C', 'N', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'E', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'E', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'G', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+[' ', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'A', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'E', ' ']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', ' ', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', 'A', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'A', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', ' ', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'G', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'E', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', ' ', 'A']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'A']
+['C', 'L', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'C', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'L', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'I', ' ']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'I', 'L']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'L', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+[' ', 'A', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'A', ' ']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'I', 'A']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'E', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', ' ']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', 'A']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', ' ', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', ' ', 'L']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', ' ', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'L', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', ' ', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'A', 'L']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'I', 'A']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['A', 'C', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'I', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'L', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', ' ', 'G']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'E', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'L']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', 'G']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'E', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'L', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'C', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'G', ' ']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'G', 'I']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'L', ' ']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'E', 'L']
+['C', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'L', ' ']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'L', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'I', 'L']
+['C', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'L', ' ']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'A', 'L']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', ' ', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'L', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'L', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+[' ', 'E', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'L']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'I', 'G']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'L', ' ']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'A', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'G', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'G', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'G']
+[' ', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'L', 'G']
+['I', 'C', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'L', 'G']
+['C', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['L', ' ', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'L', 'G']
+['C', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['A', 'E', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'L', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'I', 'G']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', ' ', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'L', 'A']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['A', ' ', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['L', 'E', 'G']
+['C', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'L', 'G']
+['C', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', 'I', 'L']
+['C', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', 'L', ' ']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'A', ' ']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'A', ' ']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'L', ' ']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'L', 'A']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['A', 'E', 'G']
+['C', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', 'L', 'G']
+['C', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'A', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'A', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'L', 'I']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', 'L', 'G']
+['C', ' ', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'A']
+['E', 'A', 'N']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['E', 'A', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', ' ', 'N']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'G', 'N']
+['I', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'N', ' ']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'A']
+['G', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['E', 'N', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'G', 'N']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'G', 'N']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'N', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', ' ', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'A']
+['G', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', ' ', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'A']
+['A', 'L', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'A']
+['E', 'G', 'N']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'L']
+['E', 'N', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['I', 'A', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'N', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'I', ' ']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'A', ' ']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'I', 'A']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', ' ']
+['A', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', ' ']
+['G', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+[' ', 'E', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'A', 'N']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'G', 'A']
+['I', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+[' ', 'E', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'A']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'A']
+[' ', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'A', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['I', 'A', 'L']
+['A', ' ', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['A', 'C', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['E', 'A', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'E', 'N']
+['A', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'E', 'N']
+['A', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'L', 'A']
+['C', 'E', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['C', 'E', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['I', 'L', 'N']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'A']
+['E', 'N', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', ' ', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'A', 'L']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'I', 'A']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'G', 'A']
+['E', ' ', 'N']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'L', ' ']
+['E', 'N', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', ' ']
+['E', 'N', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'A', 'N']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['I', 'E', 'N']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['I', 'A', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'G', 'A']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'G', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', ' ', 'A']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', ' ', 'G']
+['I', 'A', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'A']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['I', 'E', 'A']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', ' ']
+['A', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'A']
+['I', 'L', 'N']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'A', 'L']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['I', ' ', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'E']
+['C', 'L', 'N']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'L']
+['C', 'N', 'E']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'C', 'E']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'A']
+['E', 'N', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['A', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['L', 'A', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'G', ' ']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'G', 'I']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'A', 'L']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'I', ' ']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+['L', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+['L', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'L', 'G']
+['A', ' ', 'E']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'G', ' ']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'G', 'A']
+['E', 'L', 'N']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'G', 'A']
+['E', 'N', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'N', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+[' ', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+[' ', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'G', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+[' ', 'A', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'I', 'A']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['E', ' ', 'N']
+['I', 'C', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+[' ', 'I', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'L', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['I', 'L', ' ']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'N', 'L']
+['A', 'C', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['A', 'I', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'I', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['A', 'I', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['A', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'C', 'N']
+['E', 'I', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'E', 'N']
+['A', 'A', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'A']
+['C', 'A', 'L']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'A']
+['C', 'E', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['C', 'A', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'L', ' ']
+['C', 'N', 'E']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['I', 'C', 'E']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', ' ']
+['E', 'N', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'G', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['A', 'G', 'I']
+['E', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', 'I']
+[' ', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', ' ', 'I']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', ' ', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+['L', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'E', 'G']
+['L', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['I', 'L', 'G']
+[' ', 'A', 'E']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', ' ', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'I', 'G']
+[' ', 'E', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'G', 'A']
+['E', 'L', 'N']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'G', 'A']
+['E', 'L', 'N']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'A']
+['E', 'N', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['A', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'L', 'A']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['L', 'A', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', ' ', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['I', 'E', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', ' ', 'A']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', ' ', 'A']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'A', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'A', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', ' ', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'A', 'G']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'I', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['A', 'L', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['E', 'C', 'N']
+['I', 'L', 'G']
+['A', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['E', 'N', ' ']
+['I', 'C', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['E', 'N', 'L']
+['A', 'C', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'L']
+['A', 'N', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', ' ', 'N']
+['E', 'I', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'G', 'I']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'A', 'G']
+['L', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'L', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'L', 'I']
+['E', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'E', 'G']
+['A', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'I', ' ']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['L', 'A', ' ']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+[' ', 'A', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'G', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'I', 'G']
+['E', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['E', ' ', 'N']
+['A', 'A', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'L']
+['C', 'N', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['A', 'L', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'L', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['A', 'L', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['A', 'L', ' ']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['A', 'L', 'I']
+['C', 'E', ' ']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'G', 'I']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['A', 'A', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['A', 'C', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['C', 'A', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', ' ', 'G']
+['L', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', 'I']
+[' ', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'G', 'L']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'L', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['G', 'L', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', ' ', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['L', 'E', 'G']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'L', ' ']
+['A', 'N', 'G']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['A', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', ' ']
+['E', 'I', 'L']
+['A', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'A']
+['E', 'L', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', ' ', 'A']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['E', 'L', 'A']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'G', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['A', 'I', 'G']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'L']
+['E', 'A', 'G']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['E', 'N', ' ']
+['A', 'A', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'G', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+[' ', 'C', 'L']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+[' ', 'L', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'G']
+['A', 'N', ' ']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', 'A', 'I']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', 'L', 'A']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+[' ', 'A', 'N']
+['C', 'L', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', ' ']
+['C', 'L', 'N']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['E', 'C', 'L']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'G']
+['C', ' ', 'N']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['C', 'A', 'N']
+['E', 'L', 'I']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['C', 'L', 'G']
+['A', 'N', 'I']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['C', 'N', 'G']
+['A', ' ', 'I']
+['E', 'A', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'G']
+['C', 'L', 'N']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'G']
+['C', 'L', 'N']
+['E', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'L', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'L', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', ' ', 'A']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'A', ' ']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'G', 'A']
+['I', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'A', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'A', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'G', 'A']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'G', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', ' ', 'E']
+['I', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'L']
+['C', 'N', 'A']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', 'A', 'L']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', ' ', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['E', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', 'L', ' ']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', 'L', 'G']
+['I', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['E', 'C', 'L']
+['I', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+[' ', 'G', 'A']
+['C', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'L', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['I', 'C', 'L']
+['A', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+[' ', 'C', 'A']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'E']
+['I', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'C', 'A']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', 'E']
+['I', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'E', 'G']
+['I', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['C', 'I', 'N']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'L']
+['I', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'C', ' ']
+['A', 'L', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'I', 'L']
+[' ', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'I', 'L']
+['E', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['C', 'L', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['I', ' ', 'L']
+['A', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', ' ']
+['C', 'A', 'N']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'I', 'A']
+[' ', 'E', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['E', 'C', 'A']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', ' ', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', ' ', 'L']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', ' ']
+['C', 'N', 'A']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', ' ', 'N']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', ' ', 'G']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'E', 'G']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', ' ', 'L']
+['I', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'E']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'E']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'A', 'E']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'E', 'G']
+[' ', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', 'A']
+[' ', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', 'A']
+['E', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['E', 'C', 'A']
+[' ', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'A']
+['C', 'N', 'G']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'G']
+['C', 'A', 'N']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['C', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['E', 'A', 'L']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['I', 'A', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['I', 'E', 'L']
+['A', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'C', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'E', 'L']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+[' ', 'A', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+[' ', 'I', 'L']
+['A', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+[' ', 'L', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'E', 'N']
+['A', 'L', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['E', ' ', 'N']
+['A', 'L', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['E', 'N', ' ']
+['A', 'L', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['E', 'N', 'G']
+['A', 'L', ' ']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['I', 'L', ' ']
+['A', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+[' ', 'I', 'A']
+['C', 'E', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'I', ' ']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'E', 'L']
+['A', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'E', 'L']
+[' ', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+[' ', 'E', 'L']
+['C', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['E', ' ', 'L']
+['C', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['E', 'I', 'L']
+['C', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['E', 'L', ' ']
+['C', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['E', 'L', 'G']
+['C', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['E', 'I', 'L']
+['C', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'E', 'L']
+['A', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'L', ' ']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'L', ' ']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'I', 'N']
+['E', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', 'I', 'G']
+['E', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', 'I', 'G']
+['E', 'A', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', 'I', ' ']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', ' ', 'I']
+['E', 'A', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+[' ', 'C', 'G']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+[' ', 'G', 'E']
+['C', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'L', ' ']
+['I', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'E', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'E', ' ']
+['I', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'A', 'E']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'E', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+[' ', 'N', 'L']
+['A', 'E', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+[' ', 'I', 'A']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['A', 'C', ' ']
+['E', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', ' ']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', ' ']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['C', 'G', 'N']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['C', 'N', 'G']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['E', 'L', 'N']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', ' ']
+['I', 'L', 'N']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'G']
+['C', ' ', 'N']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['C', 'G', 'I']
+[' ', 'E', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'I']
+[' ', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'E', 'L']
+[' ', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'E', 'L']
+[' ', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'E', 'L']
+['C', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', ' ', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', ' ', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['A', 'L', 'G']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'C', 'N']
+['E', 'A', 'G']
+[' ', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'E', ' ']
+['A', 'L', 'N']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'I', 'L']
+[' ', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'I', 'L']
+[' ', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['A', 'I', 'L']
+['C', 'G', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'E', 'N']
+['I', 'L', 'G']
+['A', 'C', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', ' ', 'I']
+['E', 'L', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'A', 'L']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['A', ' ', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'L', 'G']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['C', 'L', 'G']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', ' ', 'G']
+['A', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['C', 'A', 'I']
+['E', 'G', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['E', 'A', 'L']
+['I', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['I', 'A', 'L']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['I', 'E', 'L']
+['A', 'C', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', ' ', 'L']
+['E', 'G', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'G', 'L']
+[' ', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'I', 'G']
+[' ', 'E', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['C', 'L', 'G']
+['I', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'A']
+['E', 'C', 'G']
+[' ', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', ' ', 'L']
+['E', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'E', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['C', 'E', 'A']
+['I', 'L', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['A', ' ', 'E']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['A', 'C', 'G']
+['E', 'I', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', ' ', 'I']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', ' ', 'I']
+['A', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', 'G']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['C', 'I', 'G']
+['A', 'E', ' ']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'L']
+['E', ' ', 'G']
+['C', 'I', 'A']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'A']
+['E', 'N', 'L']
+['C', 'I', 'G']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'L']
+['A', 'N', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'C', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['A', 'C', 'G']
+['E', 'L', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['L', 'A', 'G']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'G']
+['C', 'I', 'N']
+['E', ' ', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'G']
+['C', 'N', ' ']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'G']
+['C', 'N', ' ']
+['E', 'I', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+[' ', 'G', 'I']
+['C', 'E', 'L']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'C', 'G']
+['L', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['E', 'L', 'G']
+['I', ' ', 'C']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['I', 'L', 'G']
+['C', ' ', 'E']
+call queueing_function to expand searching nodes
+
+['A', 'A', 'N']
+['L', 'G', ' ']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+[' ', 'A', 'L']
+['C', 'E', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'G', 'N']
+['C', 'L', 'I']
+['E', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['A', 'E', 'L']
+['C', ' ', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'I', 'N']
+['A', 'L', ' ']
+['C', 'E', 'G']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'A']
+['C', 'N', 'G']
+['E', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', 'E', 'G']
+['A', ' ', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['C', 'E', 'G']
+[' ', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+[' ', 'E', 'G']
+['C', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'L', 'N']
+['E', ' ', 'G']
+['C', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', ' ', 'N']
+['E', 'L', 'G']
+['C', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', ' ']
+['E', 'L', 'G']
+['C', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['E', 'L', ' ']
+['C', 'A', 'I']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['E', 'L', 'I']
+['C', 'A', ' ']
+
+======= Result Begin ===============
+Puzzle state:
+['C', 'A', 'N']
+['E', 'A', 'L']
+['I', 'G', ' ']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 4.1928s
+Total nodes visited was 561
+Max queue size was 378
+puzzle solved -- match with goal state
+The depth of the goal node was 20
+======= Result End ===============

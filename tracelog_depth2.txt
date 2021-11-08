@@ -1,0 +1,32 @@
+python project1_angelica_ai.py angelica_depth2.json 3
+read-in from command line input, puzzle json file and algorithm to use
+['A', 'N', 'G']
+['E', 'L', 'I']
+[' ', 'C', 'A']
+starting search with (3) Manhattan Distance Heuristic
+['A', 'N', 'G']
+['E', 'L', 'I']
+[' ', 'C', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['E', 'L', 'I']
+['C', ' ', 'A']
+call queueing_function to expand searching nodes
+
+['A', 'N', 'G']
+['E', 'L', 'I']
+['C', 'A', ' ']
+
+======= Result Begin ===============
+Puzzle state:
+['A', 'N', 'G']
+['E', 'L', 'I']
+[' ', 'C', 'A']
+algorithm used: Manhattan Distance Heuristic
+algorithm execution time: 0.013s
+Total nodes visited was 3
+Max queue size was 3
+puzzle solved -- match with goal state
+The depth of the goal node was 2
+======= Result End ===============
